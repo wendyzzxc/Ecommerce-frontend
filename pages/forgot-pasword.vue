@@ -202,7 +202,7 @@ function handleBack(stepKey) {
 }
 </script>
 
-<style scopde>
+<style scope>
 .auth-shadow {
   box-shadow: 0px 3px 10px 0px #00000024;
 }
